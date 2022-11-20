@@ -97,7 +97,6 @@ pygments=2.13.0=pypi_0
 pympler=1.0.1=pypi_0
 pyparsing=3.0.9=pypi_0
 pyrsistent=0.19.2=pypi_0
-python=3.7.13=h6244533_1
 python-dateutil=2.8.2=pypi_0
 pytz=2022.6=pypi_0
 pytz-deprecation-shim=0.1.0.post0=pypi_0
